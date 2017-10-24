@@ -40,3 +40,19 @@ figcaption {
 #logo h2 {
   font-family: Roboto, cursive;
 }
+
+/* Psuedo Selector */
+
+#details a:link, #details a:visted {
+  color: black;
+  text-decoration: none;
+}
+
+#details a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+#details a:active {
+  color: red;
+}
