@@ -16,3 +16,11 @@ figcaption {
   color: #777;
   text-align: right;
 }
+
+/* Classs Selector */
+
+.milk-text { /* Selects elements of class milk-text */
+  font: bold 2.6em Pacifico, cursive;
+  color: white;
+  text-shadow: 0 2px 3px x000;
+}
