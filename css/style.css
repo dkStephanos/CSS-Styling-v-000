@@ -49,7 +49,7 @@ figcaption {
 }
 
 #details a:hover {
-  color: black;
+  color: yellow;
   text-decoration: underline;
 }
 
