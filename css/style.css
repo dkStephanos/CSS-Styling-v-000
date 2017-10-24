@@ -44,7 +44,7 @@ figcaption {
 /* Psuedo Selector */
 
 #details a:link, #details a:visted {
-  color: black;
+  color: blue;
   text-decoration: none;
 }
 
